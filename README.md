@@ -24,6 +24,8 @@ Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices.
 
 ## Applications of RMT to FTS
 
+Estimating the covariance matrix. 
+
 
 
 # References
