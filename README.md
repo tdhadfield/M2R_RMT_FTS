@@ -15,10 +15,14 @@ https://profiles.imperial.ac.uk/t.hadfield
 
 Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). 
 
+## Random Variable basics
+
+Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians.
+
 
 ## Introduction to Random Matrix Theory
 
-What is a Random Matrix? Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians. 
+What is a Random Matrix? 
 
 ## Introduction to Financial Time Series
 
