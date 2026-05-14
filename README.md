@@ -6,6 +6,16 @@ Examples for the Random Matrix Theory for Financial Time Series project
 
 # Syllabus
 
+## Linear Algebra basics
+
+## Introduction to Random Matrix Theory
+
+## Introduction to Financial Time Series
+
+## Basic Portfolio Theory
+
+## Applications of RMT to FTS
+
 
 
 # References
