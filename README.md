@@ -1,6 +1,11 @@
 # M2R_RMT_FTS
 Examples for the Random Matrix Theory for Financial Time Series project
 
+Supervisor: Tom Hadfield\
+t.hadfield@imperial.ac.uk\
+https://profiles.imperial.ac.uk/t.hadfield
+
+
 
 
 
@@ -8,13 +13,26 @@ Examples for the Random Matrix Theory for Financial Time Series project
 
 ## Linear Algebra basics
 
+Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). Rank of a matrix. Kernel and cokernel. Rank-nullity theorem. Projections. Rank-one operators. 
+
+## Random Variable basics
+
+Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians.
+
+
 ## Introduction to Random Matrix Theory
 
+What is a Random Matrix? Ensembles of Random Matrices. Empirical Spectral Distribution (ESD). Gaussian Orthogonal Ensemble (GOE). Wigner Semicircle Law. Wishart Ensemble. Marchenko-Pastur distribution. 
+
 ## Introduction to Financial Time Series
+
+What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation. Z-scores. Autocorrelation. Non-normality of returns. 
 
 ## Basic Portfolio Theory
 
 ## Applications of RMT to FTS
+
+Estimating the covariance matrix. 
 
 
 
