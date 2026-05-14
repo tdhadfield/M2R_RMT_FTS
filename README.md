@@ -18,6 +18,8 @@ Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices.
 
 ## Introduction to Random Matrix Theory
 
+What is a Random Matrix?
+
 ## Introduction to Financial Time Series
 
 ## Basic Portfolio Theory
