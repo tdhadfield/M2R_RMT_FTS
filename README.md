@@ -18,7 +18,7 @@ Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices.
 
 ## Introduction to Random Matrix Theory
 
-What is a Random Matrix?
+What is a Random Matrix? Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians. 
 
 ## Introduction to Financial Time Series
 
