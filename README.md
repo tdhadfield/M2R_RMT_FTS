@@ -11,8 +11,8 @@ Examples for the Random Matrix Theory for Financial Time Series project
 # References
 
 
-Random Matrix Theory and Correlation Estimation
-Jim Gatheral
+Random Matrix Theory and Correlation Estimation\\
+Jim Gatheral\\
 https://mfe.baruch.cuny.edu/wp-content/uploads/2015/02/RandomMatrixBaruch2015.pdf
 
 PCA in high dimensions, random matrix theory and financial applications
