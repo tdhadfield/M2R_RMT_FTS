@@ -22,7 +22,7 @@ Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Varia
 
 ## Introduction to Random Matrix Theory
 
-What is a Random Matrix? Ensembles of Random Matrices. Gaussian Orthogonal Ensemble (GOE).
+What is a Random Matrix? Ensembles of Random Matrices. Empirical Spectral Distribution (ESD). Gaussian Orthogonal Ensemble (GOE). Wigner Semicircle Law. Wishart Ensemble. Marchenko-Pastur distribution. 
 
 ## Introduction to Financial Time Series
 
