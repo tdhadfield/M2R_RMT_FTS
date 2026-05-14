@@ -1,12 +1,20 @@
 # M2R_RMT_FTS
 Examples for the Random Matrix Theory for Financial Time Series project
 
+Supervisor: Tom Hadfield\  
+t.hadfield@imperial.ac.uk\
+https://profiles.imperial.ac.uk/t.hadfield
+
+
 
 
 
 # Syllabus
 
 ## Linear Algebra basics
+
+Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). 
+
 
 ## Introduction to Random Matrix Theory
 
