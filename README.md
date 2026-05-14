@@ -13,7 +13,7 @@ https://profiles.imperial.ac.uk/t.hadfield
 
 ## Linear Algebra basics
 
-Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). 
+Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). Rank of a matrix. Kernel and cokernel. Rank-nullity theorem. Projections. Rank-one operators. 
 
 ## Random Variable basics
 
