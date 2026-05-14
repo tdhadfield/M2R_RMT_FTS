@@ -41,6 +41,12 @@ Marc Potters, Jean-Philippe Bouchaud\
 Online access here:\
 https://www-cambridge-org.iclibezp1.cc.ic.ac.uk/core/books/first-course-in-random-matrix-theory/2292A554A9BB9E2A4697C35BCE920304
 
+Random Matrix Theory and Machine Learning Tutorial, ICML 2021\
+Fabian Pedregosa1, Courtney Paquette1, Tom Trogdon, Jeffrey Pennington\
+https://random-matrix-learning.github.io/
+
+
+
 
 
 
