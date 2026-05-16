@@ -30,6 +30,8 @@ What is a time series? Financial time series - price, volume, returns. Data qual
 
 ## Basic Portfolio Theory
 
+Risk and Return. Minimum Variance Portfolio. Efficient Frontier.
+
 ## Applications of RMT to FTS
 
 Estimating the covariance matrix. 
