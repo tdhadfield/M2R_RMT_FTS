@@ -17,7 +17,7 @@ Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices.
 
 ## Random Variable basics
 
-Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians. Moments of a probability distribution.
+Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians. Moments of a probability distribution. Central Limit Theorem.
 
 
 ## Introduction to Random Matrix Theory
