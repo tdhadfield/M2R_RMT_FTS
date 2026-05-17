@@ -30,7 +30,7 @@ What is a time series? Financial time series - price, volume, returns. Data qual
 
 ## Basic Portfolio Theory
 
-Risk and Return. Minimum Variance Portfolio. Efficient Frontier.
+Risk and Return. Minimum Variance fully invested Portfolio. Covariance Matrix. Characteristic portfolios. Efficient Frontier.
 
 ## Applications of RMT to FTS
 
@@ -47,6 +47,11 @@ https://mfe.baruch.cuny.edu/wp-content/uploads/2015/02/RandomMatrixBaruch2015.pd
 PCA in high dimensions, random matrix theory and financial applications\
 Mihai Cucuringu\
 https://www.stats.ox.ac.uk/~cucuring/Lecture_4_PCA_RMTX_Finance.pdf
+
+Grinold and Kahn, Active Portfolio Management\
+Technical appendix of Chapter 2 - characteristic portfolios\
+Available online at the Imperial College library\
+https://ebookcentral.proquest.com/lib/imperial/detail.action?docID=6247124
 
 Financial Applications of Random Matrix Theory: a short review\
 J.P. Bouchaud, M. Potters\
