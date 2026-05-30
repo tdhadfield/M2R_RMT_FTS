@@ -13,11 +13,11 @@ https://profiles.imperial.ac.uk/t.hadfield
 
 ## Linear Algebra basics
 
-Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). Rank of a matrix. Kernel and cokernel. Rank-nullity theorem. Projections. Rank-one operators. 
+Matrices. Eigenvectors and eigenvalues. Symmetric matrices. Orthogonal matrices. When does a matrix have a basis of (orthogonal) eigenvectors? Examples. Singular Value Decomposition (SVD) and Principal Component Analysis (PCA). Rank of a matrix. Kernel and image (cokernel). Rank-nullity theorem. Projections. Rank-one operators. 
 
 ## Random Variable basics
 
-Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians.
+Random variables. Uniform and Normal (Gaussian) distribution. Expectation, Variance, Covariance, Correlation. Sums of Gaussians. Moments of a probability distribution. Central Limit Theorem.
 
 
 ## Introduction to Random Matrix Theory
@@ -26,9 +26,11 @@ What is a Random Matrix? Ensembles of Random Matrices. Empirical Spectral Distri
 
 ## Introduction to Financial Time Series
 
-What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation. Z-scores. Autocorrelation. Non-normality of returns. 
+What is a time series? Financial time series - price, volume, returns. Data quality issues, outliers, normalisation. Z-scores. Autocorrelation. Non-stationarity. Non-normality of returns. 
 
 ## Basic Portfolio Theory
+
+Risk and Return. Minimum Variance fully invested Portfolio. Covariance Matrix. Characteristic portfolios. Efficient Frontier.
 
 ## Applications of RMT to FTS
 
@@ -45,6 +47,11 @@ https://mfe.baruch.cuny.edu/wp-content/uploads/2015/02/RandomMatrixBaruch2015.pd
 PCA in high dimensions, random matrix theory and financial applications\
 Mihai Cucuringu\
 https://www.stats.ox.ac.uk/~cucuring/Lecture_4_PCA_RMTX_Finance.pdf
+
+Grinold and Kahn, Active Portfolio Management\
+Technical appendix of Chapter 2 - characteristic portfolios\
+Available online at the Imperial College library\
+https://ebookcentral.proquest.com/lib/imperial/detail.action?docID=6247124
 
 Financial Applications of Random Matrix Theory: a short review\
 J.P. Bouchaud, M. Potters\
